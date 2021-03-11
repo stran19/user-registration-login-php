@@ -1,0 +1,58 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  color: white;
+  background-image: url("netflixwall.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 0 15%;
+  margin:0 1em;
+}
+
+#signin {
+  float: right;
+  background-color: red;
+}
+body h1 {
+ font-size: 70px;
+ font-weight: bold; 
+ margin-top: 25%;
+ margin-bottom: 1%;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  float: left;
+  padding: 10px;
+  font-size: 24px;
+}
+
+nav {
+  position: relative;
+  padding: 10px;
+  font: 36px;
+}
+
+footer {
+display: flex;
+justify-content: center;
+color: grey;
+padding: 250px 100px 100px 100px;
+}
+
+#register {
+  margin: 10%;
+}
+
+p {
+  font-size: 22px;
+}
+
+#submit {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  width: 100px;
+  height: 30px;
+}
